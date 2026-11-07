@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+# raw data is too large for GitHub - download from Kaggle
+data/raw/
+IKEA_product_catalog.csv
